@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(to right, #2e2325, #e0d7cf, #faf6f0);
+}
+
+
+.wrap {
+    width: 60%;
+    margin: auto;
+    color: aliceblue;
+    border-radius: 10px;
+    font-family: comic sans ms;
+    background-color: #8a8686;
+}
+
+.container {
+    padding: 5px;
+    margin: 10%;
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    padding-bottom: 5px;
+}
+
+button {
+    color: aliceblue;
+    width: 50px;
+    font-family: comic sans ms;
+    height: 30px;
+    background-color: #661626;
+    border-radius: 8px;
+}
